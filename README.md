@@ -1,28 +1,5 @@
 <h1 align="center">¡Hola! Soy Arturo Dev Ops 👋</h1>
 
-<h2 align="left">🚀 Desarrollador Web en Formación | Con ADN de Sistemas (ASIR & SMR)</h2>
-
-<p>Vengo del mundo de los sistemas, las redes y la administración de servidores, y actualmente estoy dando el salto definitivo hacia el <strong>Desarrollo Web</strong>.</p>
-
-<p>Mi objetivo es fusionar ambas disciplinas para orientar mi carrera hacia el ecosistema <strong>DevOps</strong>, entendiendo el software desde su código hasta su despliegue y arquitectura.</p>
-
-<hr>
-
-<h3>📫 Redes y Contacto</h3>
-
-<p><em>💡 ¡Conectemos! Estoy abierto a colaborar en proyectos y oportunidades de aprendizaje.</em></p>
-
-<p>
-  <a href="TU_ENLACE_A_LINKEDIN_AQUÍ" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu_correo@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<hr />
-
 <h3>🧑‍💻 Sobre mí</h3>
 
 <ul>
@@ -84,5 +61,13 @@
 </ul>
 
 <hr />
+<p>
+  <a href="TU_ENLACE_A_LINKEDIN_AQUÍ" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tu_correo@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <p align="left">📊 <em>Hito actual: Diseñando soluciones eficientes desde el código hasta el servidor.</em></p>
