@@ -31,7 +31,7 @@
     <tr>
       <td><strong>Sistemas y DevOps</strong></td>
       <td>
-<img src="https://skillicons.dev/icons?i=windows,azure,discord,docker,powershell,wordpress,,linux,bash,debian,kali,nginx,redhat,ubuntu,vim," alt="SIS-OPS" />
+<img src="https://skillicons.dev/icons?i=windows,azure,discord,docker,powershell,wordpress,,linux,bash,debian,kali,nginx,redhat,ubuntu,vim" alt="SIS-OPS" />
       </td>
     </tr>
   </tbody>
