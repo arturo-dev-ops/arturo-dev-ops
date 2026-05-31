@@ -6,7 +6,7 @@
 
 <p>Mi objetivo es fusionar ambas disciplinas para orientar mi carrera hacia el ecosistema <strong>DevOps</strong>, entendiendo el software desde su código hasta su despliegue y arquitectura.</p>
 
-<hr />
+<hr>
 
 <h3>📫 Redes y Contacto</h3>
 
