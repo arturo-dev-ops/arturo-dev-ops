@@ -6,7 +6,7 @@
   <li>🎓 Actualmente estudiando el <strong>Curso Superior de Programación Web</strong> en <em>MasterD (Davante) Toledo</em> (Modalidad Online).</li>
   <li>🧠 Técnico Superior en <strong>ASIR</strong> (Administración de Sistemas Informáticos en Red) y Técnico en <strong>SMR</strong> (Sistemas Microinformáticos y Redes).</li>
   <li>💾 Enfocado en dominar la construcción de aplicaciones web, la gestión avanzada de <strong>Bases de Datos (SQL)</strong> y la automatización de despliegues.</li>
-  <li>⚙️ Me apasiona la eficiencia, la ciberseguridad práctica y entender qué pasa "detrás de la escena" en un servidor cuando una web recibe tráfico.</li>
+  <li>⚙️ Me apasiona la eficiencia, la cyber seguridad práctica y entender qué pasa "detrás de la escena" en un servidor cuando una web recibe tráfico.</li>
 </ul>
 
 <hr />
@@ -41,7 +41,18 @@
 
 <h3>📁 Proyectos Destacados</h3>
 
-<p>En desarrollo...</p>
+<p>Explora mis repositorios más relevantes:</p>
+
+<ul>
+  <li>
+    <strong><a href="https://github.com/arturo-dev-ops/NOMBRE_DEL_REPO">Nombre del Proyecto</a></strong> 
+    <br><i>Breve descripción sobre qué hace el proyecto y qué tecnologías usaste.</i>
+  </li>
+  <li>
+    <strong><a href="https://github.com/arturo-dev-ops/NOMBRE_DEL_REPO">Otro Proyecto</a></strong> 
+    <br><i>Automatización de procesos usando Bash y Docker para entornos de producción.</i>
+  </li>
+</ul>
 
 <hr />
 <p>
@@ -55,3 +66,7 @@
 </p>
 
 <p align="left">📊 <em>Hito actual: Diseñando soluciones eficientes desde el código hasta el servidor.</em></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArturoJimenezA&show_icons=true&theme=radical" alt="Estadísticas de Arturo" />
+</div>
