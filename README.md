@@ -64,12 +64,16 @@
         Plataforma de gestión para talleres de reparación electrónica. Diseñada para optimizar el control de incidencias, flujos de clientes y asignación de técnicos en entornos locales.
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=php,mysql,html,css" alt="ReparaTech Tech" />
+        <img src="https://skillicons.dev/icons?i=html,css" alt="ReparaTech Tech" />
       </td>
     </tr>
     <tr>
       <td align="center" valign="top">
         <img src="https://skillicons.dev/icons?i=js" alt="Logo FocoÚnico" width="60" style="margin-bottom:8px; border-radius: 8px;" />
+        <!--
+        en desarrollo por imagen clara
+        -->
+        
         <br>
         <strong>FocoÚnico</strong>
         <br>
