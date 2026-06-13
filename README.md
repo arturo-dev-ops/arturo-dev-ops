@@ -41,16 +41,17 @@
 
 <h3>📁 Proyectos Destacados</h3>
 
-<p>Explora mis repositorios más relevantes:</p>
+<p>Explora mis soluciones desde el desarrollo backend hasta el despliegue:</p>
 
 <ul>
   <li>
-    <strong><a href="https://github.com/arturo-dev-ops/NOMBRE_DEL_REPO">Nombre del Proyecto</a></strong> 
-    <br><i>Breve descripción sobre qué hace el proyecto y qué tecnologías usaste.</i>
+    <strong><a href="https://github.com/arturo-dev-ops/reparatech-trabajo-html" target="_blank">Repara-Tech</a></strong> 
+    <br><i>Plataforma de gestión para talleres de reparación electrónica. Desarrollo de la arquitectura de datos en MySQL y la lógica de negocio en PHP para optimizar el flujo de incidencias en entornos locales.</i>
   </li>
+  <br>
   <li>
-    <strong><a href="https://github.com/arturo-dev-ops/NOMBRE_DEL_REPO">Otro Proyecto</a></strong> 
-    <br><i>Automatización de procesos usando Bash y Docker para entornos de producción.</i>
+    <strong><a href="https://github.com/arturo-dev-ops/focounico-app" target="_blank">FocoÚnico (En Desarrollo)</a></strong> 
+    <br><i>Aplicación web minimalista diseñada para combatir la procrastinación y el burnout. Desarrollada con JavaScript nativo, implementa control estricto de estados en el DOM y un motor de temporizadores para forzar tareas de foco único y descansos obligatorios.</i>
   </li>
 </ul>
 
