@@ -70,10 +70,7 @@
     <tr>
       <td align="center" valign="top">
         <img src="https://skillicons.dev/icons?i=js" alt="Logo FocoÚnico" width="60" style="margin-bottom:8px; border-radius: 8px;" />
-        <!--
-        en desarrollo por imagen clara
-        -->
-        
+        <!--En desarrollo-->
         <br>
         <strong>FocoÚnico</strong>
         <br>
