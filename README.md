@@ -101,7 +101,3 @@
 </p>
 
 <p align="left">📊 <em>Hito actual: Diseñando soluciones eficientes desde el código hasta el servidor.</em></p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArturoJimenezA&show_icons=true&theme=radical" alt="Estadísticas de Arturo" />
-</div>
