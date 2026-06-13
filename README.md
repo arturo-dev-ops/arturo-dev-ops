@@ -58,7 +58,7 @@
         Plataforma de gestión para talleres de reparación electrónica. Diseñada para optimizar el control de incidencias, flujos de clientes y asignación de técnicos en entornos locales.
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=php,mysql,html,css" alt="ReparaTech Tech" />
+        <img src="https://skillicons.dev/icons?i=html,css" alt="ReparaTech Tech" />
       </td>
     </tr>
     <tr>
