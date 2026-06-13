@@ -44,27 +44,40 @@
 <table width="100%">
   <thead>
     <tr>
-      <th align="left" width="25%">Proyecto</th>
-      <th align="left" width="50%">Descripción y Enfoque</th>
+      <th align="left" width="30%">Proyecto</th>
+      <th align="left" width="45%">Descripción y Enfoque</th>
       <th align="left" width="25%">Tecnologías</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        <strong><a href="https://github.com/arturo-dev-ops/reparatech-trabajo-html" target="_blank">Repara-Tech</a></strong>
+      <td align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/arturo-dev-ops/reparatech-trabajo-html/main/img/logo.png" alt="Logo Repara-Tech" width="120" style="max-width:100%; margin-bottom:8px;" />
+        <br>
+        <strong>Repara-Tech</strong>
+        <br><br>
+        <a href="https://github.com/arturo-dev-ops/reparatech-trabajo-html" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Ver en GitHub" />
+        </a>
       </td>
       <td>
         Plataforma de gestión para talleres de reparación electrónica. Diseñada para optimizar el control de incidencias, flujos de clientes y asignación de técnicos en entornos locales.
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=html,css" alt="ReparaTech Tech" />
+        <img src="https://skillicons.dev/icons?i=php,mysql,html,css" alt="ReparaTech Tech" />
       </td>
     </tr>
     <tr>
-      <td>
-        <strong><a href="https://github.com/arturo-dev-ops/focounico-app" target="_blank">FocoÚnico</a></strong><br>
+      <td align="center" valign="top">
+        <img src="https://skillicons.dev/icons?i=js" alt="Logo FocoÚnico" width="60" style="margin-bottom:8px; border-radius: 8px;" />
+        <br>
+        <strong>FocoÚnico</strong>
+        <br>
         <small style="color: #ff00ff;"><em>En Desarrollo ⏳</em></small>
+        <br><br>
+        <a href="https://github.com/arturo-dev-ops/focounico-app" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Ver en GitHub" />
+        </a>
       </td>
       <td>
         Aplicación web minimalista para combatir la procrastinación y el burnout. Implementa control estricto de estados en el DOM y un motor de temporizadores para forzar tareas de foco único y descansos obligatorios.
