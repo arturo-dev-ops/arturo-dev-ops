@@ -41,19 +41,40 @@
 
 <h3>📁 Proyectos Destacados</h3>
 
-<p>Explora mis soluciones desde el desarrollo backend hasta el despliegue:</p>
-
-<ul>
-  <li>
-    <strong><a href="https://github.com/arturo-dev-ops/reparatech-trabajo-html" target="_blank">Repara-Tech</a></strong> 
-    <br><i>Plataforma de gestión para talleres de reparación electrónica.</i>
-  </li>
-  <br>
-  <li>
-    <strong><a href="https://github.com/arturo-dev-ops/focounico-app" target="_blank">FocoÚnico (En Desarrollo)</a></strong> 
-    <br><i>Aplicación web minimalista diseñada para combatir la procrastinación y el burnout. Desarrollada con JavaScript nativo, implementa control estricto de estados en el DOM y un motor de temporizadores para forzar tareas de foco único y descansos obligatorios.</i>
-  </li>
-</ul>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="25%">Proyecto</th>
+      <th align="left" width="50%">Descripción y Enfoque</th>
+      <th align="left" width="25%">Tecnologías</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/arturo-dev-ops/reparatech-trabajo-html" target="_blank">Repara-Tech</a></strong>
+      </td>
+      <td>
+        Plataforma de gestión para talleres de reparación electrónica. Diseñada para optimizar el control de incidencias, flujos de clientes y asignación de técnicos en entornos locales.
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=php,mysql,html,css" alt="ReparaTech Tech" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/arturo-dev-ops/focounico-app" target="_blank">FocoÚnico</a></strong><br>
+        <small style="color: #ff00ff;"><em>En Desarrollo ⏳</em></small>
+      </td>
+      <td>
+        Aplicación web minimalista para combatir la procrastinación y el burnout. Implementa control estricto de estados en el DOM y un motor de temporizadores para forzar tareas de foco único y descansos obligatorios.
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=html,css,js" alt="FocoUnico Tech" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <hr />
 <p>
