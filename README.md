@@ -69,8 +69,7 @@
     </tr>
     <tr>
       <td align="center" valign="top">
-        <img src="https://skillicons.dev/icons?i=js" alt="Logo FocoÚnico" width="60" style="margin-bottom:8px; border-radius: 8px;" />
-        <!--En desarrollo-->
+  <img src="https://raw.githubusercontent.com/arturo-dev-ops/focounico-app/main/img/logo-focounico.png" alt="Logo FocoÚnico" width="120" style="max-width:100%; margin-bottom:8px;" />
         <br>
         <strong>FocoÚnico</strong>
         <br>
