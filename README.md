@@ -46,7 +46,7 @@
 <ul>
   <li>
     <strong><a href="https://github.com/arturo-dev-ops/reparatech-trabajo-html" target="_blank">Repara-Tech</a></strong> 
-    <br><i>Plataforma de gestión para talleres de reparación electrónica. Desarrollo de la arquitectura de datos en MySQL y la lógica de negocio en PHP para optimizar el flujo de incidencias en entornos locales.</i>
+    <br><i>Plataforma de gestión para talleres de reparación electrónica.</i>
   </li>
   <br>
   <li>
