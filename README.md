@@ -58,6 +58,9 @@
         <a href="https://github.com/arturo-dev-ops/reparatech-trabajo-html" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Ver en GitHub" />
         </a>
+        <a href="https://arturo-dev-ops.github.io/reparatech-trabajo-html/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/GitHub%20Pages-online-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Ver en GitHub Pages" />
+        </a>
       </td>
       <td>
         Plataforma de gestión para talleres de reparación electrónica. Diseñada para optimizar el control de incidencias, flujos de clientes y asignación de técnicos en entornos locales.
@@ -73,6 +76,9 @@
         <br><br>
         <a href="https://github.com/arturo-dev-ops/focounico-app" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Ver en GitHub" />
+        </a>
+        <a href="https://arturo-dev-ops.github.io/focounico-app/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/GitHub%20Pages-online-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Ver en GitHub Pages"/>
         </a>
       </td>
       <td>
