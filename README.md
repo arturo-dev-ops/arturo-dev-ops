@@ -70,8 +70,6 @@
       <td align="center" valign="top">
         <br>
         <strong>FocoÚnico</strong>
-        <br>
-        <small style="color: #ff00ff;"><em>En Desarrollo ⏳</em></small>
         <br><br>
         <a href="https://github.com/arturo-dev-ops/focounico-app" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Ver en GitHub" />
