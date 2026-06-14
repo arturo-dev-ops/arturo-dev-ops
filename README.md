@@ -52,7 +52,6 @@
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/arturo-dev-ops/reparatech-trabajo-html/main/img/logo.png" alt="Logo Repara-Tech" width="120" style="max-width:100%; margin-bottom:8px;" />
         <br>
         <strong>Repara-Tech</strong>
         <br><br>
@@ -69,7 +68,6 @@
     </tr>
     <tr>
       <td align="center" valign="top">
-  <img src="https://raw.githubusercontent.com/arturo-dev-ops/focounico-app/main/img/logo-focounico.png" alt="Logo FocoÚnico" width="120" style="max-width:100%; margin-bottom:8px;" />
         <br>
         <strong>FocoÚnico</strong>
         <br>
