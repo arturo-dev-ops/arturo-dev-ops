@@ -41,55 +41,6 @@
 
 <h3>📁 Proyectos Destacados</h3>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="30%">Proyecto</th>
-      <th align="left" width="45%">Descripción y Enfoque</th>
-      <th align="left" width="25%">Tecnologías</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <br>
-        <strong>Repara-Tech</strong>
-        <br><br>
-        <a href="https://github.com/arturo-dev-ops/reparatech-trabajo-html" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Ver en GitHub" />
-        </a>
-        <a href="https://arturo-dev-ops.github.io/reparatech-trabajo-html/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/GitHub%20Pages-online-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Ver en GitHub Pages" />
-        </a>
-      </td>
-      <td>
-        Plataforma de gestión para talleres de reparación electrónica. Diseñada para optimizar el control de incidencias, flujos de clientes y asignación de técnicos en entornos locales.
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=html,css" alt="ReparaTech Tech" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <br>
-        <strong>FocoÚnico</strong>
-        <br><br>
-        <a href="https://github.com/arturo-dev-ops/focounico-app" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Ver en GitHub" />
-        </a>
-        <a href="https://arturo-dev-ops.github.io/focounico-app/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/GitHub%20Pages-online-brightgreen?style=flat-square&logo=github&logoColor=white" alt="Ver en GitHub Pages"/>
-        </a>
-      </td>
-      <td>
-        Aplicación web minimalista para combatir la procrastinación y el burnout. Implementa control estricto de estados en el DOM y un motor de temporizadores para forzar tareas de foco único y descansos obligatorios.
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=html,css,js" alt="FocoUnico Tech" />
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 <hr />
 <p>
