@@ -3,7 +3,7 @@
 <h3>🧑‍💻 Sobre mí</h3>
 
 <ul>
-  <li>🎓 Actualmente estudiando el <strong>Curso Superior de Programación Web</strong> en <em>MasterD (Davante) Toledo</em> (Modalidad Online).</li>
+  <li>🎓 Titulado en el Curso Superior de Programación Web por MasterD (Davante) Toledo.</li>
   <li>🧠 Técnico Superior en <strong>ASIR</strong> (Administración de Sistemas Informáticos en Red) y Técnico en <strong>SMR</strong> (Sistemas Microinformáticos y Redes).</li>
   <li>💾 Enfocado en dominar la construcción de aplicaciones web, la gestión avanzada de <strong>Bases de Datos (SQL)</strong> y la automatización de despliegues.</li>
   <li>⚙️ Me apasiona la eficiencia, la cyber seguridad práctica y entender qué pasa "detrás de la escena" en un servidor cuando una web recibe tráfico.</li>
