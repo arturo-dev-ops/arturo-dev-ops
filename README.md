@@ -41,6 +41,7 @@
 
 <h3>📁 Proyectos Destacados</h3>
 
+<p>En desarrollo...</p>
 
 <hr />
 <p>
